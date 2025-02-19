@@ -1,0 +1,16 @@
+{
+  "name": "md15",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/main.scss build/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Bruno <lucasmoura3108@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.85.0"
+  }
+}
