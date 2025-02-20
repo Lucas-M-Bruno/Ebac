@@ -1,0 +1,13 @@
+@use 'variaveis';
+
+body {
+    background-color: variaveis.$corPrincipal;
+}
+
+header {
+    background-color: variaveis.$corSecundaria;
+}
+
+footer {
+    background-color: variaveis.$corSecundaria;
+}
