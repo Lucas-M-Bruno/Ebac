@@ -1,1 +1,0 @@
-function somar(r,n){return r+n}somar(15,15);
