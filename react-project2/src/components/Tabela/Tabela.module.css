@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    margin-top: 2.5rem;
+}
+
+table{
+    padding: 0;
+    border: 1px solid #5C5346;
+}
+
+.container, 
+table {
+    margin: 0 auto;
+    width: 800px;
+    max-width: 100%;
+    margin-top: 1rem;
+}
+
+td, th {
+    border: 1px solid #5C5346;
+    padding: .5rem;
+}
